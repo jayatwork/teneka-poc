@@ -369,4 +369,6 @@
     </profile>
   </profiles>
 
+  <packaging>war</packaging>
+
 </project>

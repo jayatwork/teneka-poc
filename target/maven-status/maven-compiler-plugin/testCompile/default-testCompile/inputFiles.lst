@@ -1,0 +1,11 @@
+/home/admin27/portfolio/teneka-poc/src/test/java/org/springframework/samples/petclinic/service/EntityUtils.java
+/home/admin27/portfolio/teneka-poc/src/test/java/org/springframework/samples/petclinic/model/ValidatorTests.java
+/home/admin27/portfolio/teneka-poc/src/test/java/org/springframework/samples/petclinic/service/ClinicServiceTests.java
+/home/admin27/portfolio/teneka-poc/src/test/java/org/springframework/samples/petclinic/owner/PetTypeFormatterTests.java
+/home/admin27/portfolio/teneka-poc/src/test/java/org/springframework/samples/petclinic/PetclinicIntegrationTests.java
+/home/admin27/portfolio/teneka-poc/src/test/java/org/springframework/samples/petclinic/owner/PetControllerTests.java
+/home/admin27/portfolio/teneka-poc/src/test/java/org/springframework/samples/petclinic/owner/OwnerControllerTests.java
+/home/admin27/portfolio/teneka-poc/src/test/java/org/springframework/samples/petclinic/vet/VetControllerTests.java
+/home/admin27/portfolio/teneka-poc/src/test/java/org/springframework/samples/petclinic/system/CrashControllerTests.java
+/home/admin27/portfolio/teneka-poc/src/test/java/org/springframework/samples/petclinic/owner/VisitControllerTests.java
+/home/admin27/portfolio/teneka-poc/src/test/java/org/springframework/samples/petclinic/vet/VetTests.java
